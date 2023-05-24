@@ -6,3 +6,4 @@ from .log import *
 from .mean import *
 from .utils import *
 from .wavelet import *
+from .glcm_filter import *
